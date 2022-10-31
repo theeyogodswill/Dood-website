@@ -1,0 +1,1120 @@
+.body{
+    background-color: #FFFFFF; 
+    width: 1440px; 
+    height: 844px; 
+    flex: none; 
+    flex-grow: 0px;
+}
+.dropdown{
+    border-style: none; 
+    cursor: pointer;
+    font-family: 'Noto Sans', sans-serif;
+}
+.box{
+    display: flex; 
+    flex-direction: row; 
+    justify-content: center; 
+    align-items: center; 
+    gap: 64px; 
+    
+} 
+.header{
+    margin-top: -815px;
+    font-family: 'Noto Sans', sans-serif;
+}
+#logo{
+    padding-left: 80px;
+    padding-top: 43px; 
+    padding-bottom: 761px;
+    padding-right: 1307.7px;
+} 
+.last3{
+    font-size: 14px;
+} 
+.signup{
+    background-color: #0E63F4; 
+    font-family: 'Noto Sans', sans-serif;
+    color: #FFFFFF; 
+    font-weight: 700;
+    font-size: 15px; 
+    margin-left: 1263px; 
+    margin-top: -52px;
+    border: none;
+    border-radius: 4px; 
+    width: 137px; 
+    height: 46px; 
+    gap: 8px; 
+    padding: 12px 40px; 
+    align-items: center; 
+    justify-content: center; 
+    flex-direction: column; 
+    display: flex;
+    cursor: pointer;
+    transition: ease-in-out; 
+    transition-duration: 0.4s;
+} 
+.signup1:hover{
+    background-color: black;
+    animation-duration: 0.5s;
+    
+}
+/*Homepage*/
+.container{
+    
+    width: 575px; 
+    height: 431px; 
+    margin-left: 80px; 
+    margin-top: 207px;
+} 
+
+.doctors{
+    font-family: 'Noto Sans', sans-serif; 
+    font-weight: 700; 
+    font-size: 14px; 
+    color: #0BCFAC; 
+    width: 161px;
+    margin-top: -5px;
+} 
+.findclinics{
+    width: 550px;
+    height: 152px;
+    font-weight: 900;
+    font-size: 36px;
+    font-family: 'Noto Sans', sans-serif; 
+} 
+.offers{
+  
+    width: 399px; 
+    height: 126px; 
+    margin-left: 0px; 
+    margin-top: 32px; 
+} 
+.topoffers{
+   
+    height: 43px; 
+    gap: 67px; 
+    align-items: flex-start; 
+    flex-direction: row;
+} 
+#bulkicon{
+    padding-top: 9px;
+} 
+.offer{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 700; 
+    font-size: 12px; 
+    color: #001117; 
+    width: 137px; 
+    margin-left: 30px;
+    margin-top: -41px;
+    
+} 
+.benefit{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400; 
+    font-size: 10px; 
+    color: #4E6269; 
+    width: 116px; 
+    margin-left: 30px;
+    margin-top: -6px; 
+}
+#partnership{
+    padding-top: 9px;
+    margin-left: 270px;
+    margin-top: -190px; 
+    margin-bottom: 25px;
+} 
+
+.offer2{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 700; 
+    font-size: 12px; 
+    color: #001117; 
+    width: 137px; 
+    margin-left: 300px;
+    margin-top: -66px;
+    
+} 
+.benefit2{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400; 
+    font-size: 10px; 
+    color: #4E6269; 
+    width: 116px; 
+    margin-left: 300px;
+    margin-top: -6px; 
+} 
+/*Down Offers*/ 
+.downoffers{
+   
+    height: 43px; 
+    gap: 67px; 
+    align-items: flex-start; 
+    flex-direction: row; 
+    margin-top: 35px;
+}  
+/*Contact button*/ 
+.contact{
+    background-color: #0E63F4; 
+    font-family: 'Noto Sans', sans-serif;
+    color: #FFFFFF; 
+    font-weight: 700;
+    font-size: 14px; 
+    margin-left: -5px; 
+    margin-bottom: 60px; 
+    margin-top: 60px;
+    border: none;
+    border-radius: 4px; 
+    width: 189px; 
+    height: 46px; 
+    gap: 8px; 
+    padding-top: 12px; 
+    padding-left: 40px; 
+    padding-bottom: 12px; 
+    padding-right: 68px;
+    align-items: center; 
+    justify-content: center; 
+    flex-direction: column; 
+    display: flex;
+    cursor: pointer;
+    transition: ease-in-out; 
+    transition-duration: 0.4s;
+} 
+.contact1:hover{
+    background-color: black;
+    animation-duration: 0.4s;
+    
+} 
+#arrow{
+    margin-top: -93px; 
+    margin-bottom: 110px;
+    margin-left: 120px;
+}
+
+/*Aside area*/ 
+.aside{
+    width: 586px; 
+    height: 633px; 
+    margin-top: -660px;
+    margin-left: 773px; 
+    background-image: url('images/Frame\ 1000001094.png'); 
+    background-repeat: no-repeat;
+} 
+.availabledocs{
+    width: 217px; 
+    height: 280px; 
+    box-shadow: 4px 4px 64px rgba(0,0,0,0.12); 
+    background-color:#FFFFFF; 
+    border-radius: 0px 20px;
+    margin-left: 1152px;
+    margin-top: -405px;
+    z-index: 1000px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+} 
+
+.headdocs{
+    transform: matrix(-1, 0, 0, 1, 0, 0); 
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 700; 
+    font-size: 14px; 
+    padding-left: 16px; 
+    padding-right: 71px; 
+    padding-top: 24px;
+    color: rgba(0, 17, 23, 1); 
+    width: 130px; 
+    height: 22px;
+} 
+.docselect{
+    transform: matrix(-1, 0, 0, 1, 0, 0); 
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400; 
+    font-size: 10px; 
+    padding-left: 16px; 
+    padding-right: 124px; 
+    padding-top: -10px; 
+    padding-bottom: 30px;
+    color: #4E6269; 
+    flex: none;
+    width: 77px; 
+    height: 16px;
+} 
+.alison{
+    transform: matrix(-1, 0, 0, 1, 0, 0); 
+    margin-left: 160px; 
+    margin-top: -20px;
+    
+} 
+.doctor{
+    transform: matrix(-1, 0, 0, 1, 0, 0); 
+    margin-left: 30px; 
+    margin-right: 70px;
+    margin-top: -40px; 
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px; 
+    font-weight: 700;
+}
+.doctornumber{
+    color: rgba(78,98,105,1);
+    transform: matrix(-1, 0, 0, 1, 0, 0); 
+    margin-left: 30px; 
+    margin-right: 70px;
+    margin-top: -15px; 
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px; 
+    font-weight: 400;
+} 
+
+.godswill{
+    transform: matrix(-1, 0, 0, 1, 0, 0); 
+    margin-left: 160px; 
+    margin-top: 10px;
+    
+} 
+.doctor1{
+    transform: matrix(-1, 0, 0, 1, 0, 0); 
+    margin-left: 30px; 
+    margin-right: 70px;
+    margin-top: -40px; 
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px; 
+    font-weight: 700;
+}
+.doctornumber1{
+    color: rgba(78,98,105,1);
+    transform: matrix(-1, 0, 0, 1, 0, 0); 
+    margin-left: 30px; 
+    margin-right: 70px;
+    margin-top: -15px; 
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px; 
+    font-weight: 400;
+} 
+
+.contactbutton{
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    width: 185px; 
+    height: 39px;
+    display: flex; 
+    flex-direction: row; 
+    justify-content: center; 
+    align-items: center; 
+    gap: 8px;
+    background-color: #CFE0FD; 
+    border-radius: 8px; 
+    font-weight: 700; 
+    font-size: 14px; 
+    color: rgba(14,99,244,1);
+    cursor: pointer;
+    padding: 10px 8px 10px 8px; 
+    border: none;
+    margin-left: 15px;
+    margin-top: 30px; 
+    transition: ease-in-out; 
+    transition-duration: 0.4s;
+} 
+
+.contactbutton1:hover{
+    background-color: BLACK; 
+    color: #FFFFFF;
+} 
+
+/* Easy Steps To Accessing Your Solution */ 
+.solution{
+    width: 1440px; 
+    height: 385px; 
+    background-color: #FFFFFF; 
+    flex: none; 
+    order: 1; 
+    margin-top: 150px; 
+    margin-left: -40px;
+} 
+
+#solutionhead{
+    font-family: 'Noto Sans', sans-serif; 
+    font-weight: 700; 
+    font-size: 14px; 
+    line-height: 18,9px; 
+    color: rgba(14, 99, 244, 1); 
+    width: 150px; 
+    height: 19px; 
+    flex: none;
+    margin-left: 659.5px;
+    margin-top: 48px;
+    margin-bottom: 318px;
+} 
+.steps{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 900; 
+    font-size: 32px; 
+    color: rgba(0, 17, 23, 1); 
+    width: 588px; 
+    margin-left: 440.5px; 
+    margin-top: -297px; 
+    margin-bottom: 267px;
+} 
+.solutions{
+    width: 1309px; 
+    height: 144px; 
+    gap: 136px; 
+    display: flex; 
+    flex-direction: row; 
+    align-items: flex-start; 
+    margin-left: 80px; 
+    margin-top: -200px;
+} 
+.profile{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 700; 
+    font-size: 18px; 
+    color: rgba(0, 17, 23, 1); 
+    width: 330px; 
+    height: 27px;  
+    margin-left: -178px; 
+    margin-top: 40px;
+} 
+.details{
+    font-family: 'Noto Sans', sans-serif; 
+    font-weight: 400; 
+    size: 10px; 
+    line-height: 18.9px; 
+    color: rgba(78, 98, 105, 1); 
+    width: 221px; 
+    height: 57px; 
+    margin-left: -465px;
+    margin-top: 73px;
+} 
+
+/*Desktop 4*/ 
+.desktop4{
+    width: 1440px; 
+    margin-top: 40px;
+    height: 944px; 
+    background-color: #FFFFFF; 
+    
+    flex: none; 
+    order: 2;
+    
+} 
+.desktopgray{
+    width: 1280px; 
+    height: 711px; 
+    background: #F1F4FB; 
+    border-radius: 20px; 
+    margin-left: 60px; 
+    margin-top: 169px; 
+  
+} 
+/*Qualities*/
+.hospitalqualities{
+    width: 1064px; 
+    height: 209px; 
+    margin-left: 160px;
+    box-shadow: 4px 4px 64px rgba(0,0,0,0.12); 
+    background-color: #FFFFFF; 
+    box-shadow: opx 34px 68px #D9E1F4; 
+    border-radius: 20px;
+    margin-top: -800px; 
+    
+} 
+.qualities{
+   width: 802px; 
+   height: 89px; 
+  
+   gap: 180px; 
+   display: flex;
+   margin-left: 292px; 
+   margin-top: -150px; 
+
+} 
+.qualitiesbox{
+    width: 139px; 
+    height: 89px; 
+    gap: 4px; 
+    padding: 0px; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+   
+    margin-left: 291px; 
+    margin-top: -93px;
+} 
+#percent{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 900; 
+    font-size: 32px; 
+    line-height: 43.2px; 
+    color: rgba(0, 17, 23, 1); 
+    width: 123px; 
+    height: 43px; 
+    margin-top: -10px; 
+    margin-left: 10px;
+} 
+#feedback{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 700; 
+    font-size: 16px; 
+    line-height: 21.6px; 
+    color: rgba(0, 17, 23, 1); 
+    width: 139px; 
+    height: 22px; 
+    margin-top: -30px; 
+    margin-left: 4px;
+} 
+#doctors{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 500; 
+    font-size: 12px; 
+    line-height: 21.6px; 
+    color: rgba(78, 98, 105, 1); 
+    width: 110px; 
+    height: 16px; 
+    margin-top: -10px; 
+    margin-left: 4px;
+} 
+
+.qualitiesbox2{
+    width: 139px; 
+    height: 89px; 
+    gap: 4px; 
+    padding: 0px; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+   
+    margin-left: 621px; 
+    margin-top: -93px;
+} 
+#percent2{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 900; 
+    font-size: 32px; 
+    line-height: 43.2px; 
+    color: rgba(0, 17, 23, 1); 
+    width: 123px; 
+    height: 43px; 
+    margin-top: -10px; 
+    margin-left: 10px;
+} 
+#feedback2{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 700; 
+    font-size: 16px; 
+    line-height: 21.6px; 
+    color: rgba(0, 17, 23, 1); 
+    width: 189px; 
+    height: 22px; 
+    margin-top: -30px; 
+    margin-left: 27px;
+} 
+#doctors2{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 500; 
+    font-size: 12px; 
+    line-height: 21.6px; 
+    color: rgba(78, 98, 105, 1); 
+    width: 110px; 
+    height: 16px; 
+    margin-top: -10px; 
+    margin-left: 10px;
+} 
+
+.qualitiesbox3{
+    width: 139px; 
+    height: 89px; 
+    gap: 4px; 
+    padding: 0px; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    
+    margin-left: 955px; 
+    margin-top: -93px;
+} 
+#percent3{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 900; 
+    font-size: 32px; 
+    line-height: 43.2px; 
+    color: rgba(0, 17, 23, 1); 
+    width: 123px; 
+    height: 43px; 
+    margin-top: -10px; 
+    margin-left: 10px;
+} 
+#feedback3{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 700; 
+    font-size: 16px; 
+    line-height: 21.6px; 
+    color: rgba(0, 17, 23, 1); 
+    width: 189px; 
+    height: 22px; 
+    margin-top: -30px; 
+    margin-left: 39px;
+} 
+#doctors3{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 500; 
+    font-size: 12px; 
+    line-height: 21.6px; 
+    color: rgba(78, 98, 105, 1); 
+    width: 110px; 
+    height: 16px; 
+    margin-top: -10px; 
+    margin-left: 10px;
+} 
+
+/*Gray Screen*/ 
+.container2{
+   width: 950px; 
+   height: 511px; 
+   margin-left: 108px;
+   margin-top: 200px; 
+   padding-top: 200px;
+  
+   
+} 
+.doctorcard{
+    width: 197px; 
+    height: 214px; 
+    background-color: #FFFFFF; 
+    box-shadow: 4px 4px 64px rgba(207, 201, 201, 0.2); 
+    border-radius: 20px; 
+    padding-top: 0px; 
+    flex: none; 
+    order: 0; 
+    flex-grow: 0; 
+   
+} 
+
+#cardpic{
+    margin-top: 24px; 
+    margin-left: 16px;
+} 
+#cardname{
+    margin-left: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px; 
+    font-weight: 700;
+} 
+#cardnumber{
+    color: #4E6269;
+    width: 88px; 
+    height: 16px;
+    line-height: 16px;
+    margin-left: 16px; 
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px; 
+    font-weight: 500;
+}
+#carddetails{
+    width: 182px; 
+    height: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px; 
+    font-weight: 400; 
+    color: #4E6269; 
+    line-height: 20px;
+    margin-left: 16px;
+    margin-top: 20px;
+    flex: none; 
+    order: 0; 
+    flex-grow: 0;
+} 
+/*Second card*/
+.doctorcard2{
+    width: 197px; 
+    height: 214px; 
+    background-color: #FFFFFF; 
+    box-shadow: 4px 4px 64px rgba(207, 201, 201, 0.2); 
+    border-radius: 20px; 
+    margin-top: 24px;
+    flex: none; 
+    order: 0; 
+    flex-grow: 0; 
+   
+} 
+
+#cardpic2{
+    margin-top: 24px; 
+    margin-left: 16px;
+} 
+#cardname2{
+    margin-left: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px; 
+    font-weight: 700;
+} 
+#cardnumber2{
+    color: #4E6269;
+    width: 88px; 
+    height: 16px;
+    line-height: 16px;
+    margin-left: 16px; 
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px; 
+    font-weight: 500;
+}
+#carddetails2{
+    width: 182px; 
+    height: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px; 
+    font-weight: 400; 
+    color: #4E6269; 
+    line-height: 20px;
+    margin-left: 16px;
+    margin-top: 20px;
+    flex: none; 
+    order: 0; 
+    flex-grow: 0;
+} 
+
+/*Third card*/ 
+.doctorcard3{
+    width: 197px; 
+    height: 214px; 
+    background-color: #FFFFFF; 
+    box-shadow: 4px 4px 64px rgba(207, 201, 201, 0.2); 
+    border-radius: 20px; 
+    margin-top: -384px;
+    margin-left: 220px;
+    flex: none; 
+    order: 0; 
+    flex-grow: 0; 
+    
+} 
+
+#cardpic3{
+    margin-top: 24px; 
+    margin-left: 16px;
+} 
+#cardname3{
+    margin-left: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px; 
+    font-weight: 700;
+} 
+#cardnumber3{
+    color: #4E6269;
+    width: 88px; 
+    height: 16px;
+    line-height: 16px;
+    margin-left: 16px; 
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px; 
+    font-weight: 500;
+}
+#carddetails3{
+    width: 182px; 
+    height: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px; 
+    font-weight: 400; 
+    color: #4E6269; 
+    line-height: 20px;
+    margin-left: 16px;
+    margin-top: 20px;
+    flex: none; 
+    order: 0; 
+    flex-grow: 0;
+} 
+/*Last card*/ 
+.doctorcard4{
+    width: 197px; 
+    height: 214px; 
+    background-color: #FFFFFF; 
+    box-shadow: 4px 4px 64px rgba(207, 201, 201, 0.2); 
+    border-radius: 20px; 
+    margin-top: 24px;
+    margin-left: 220px;
+    flex: none; 
+    order: 0; 
+    flex-grow: 0; 
+    
+} 
+
+#cardpic4{
+    margin-top: 24px; 
+    margin-left: 16px;
+} 
+#cardname4{
+    margin-left: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 14px; 
+    font-weight: 700;
+} 
+#cardnumber4{
+    color: #4E6269;
+    width: 88px; 
+    height: 16px;
+    line-height: 16px;
+    margin-left: 16px; 
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px; 
+    font-weight: 500;
+}
+#carddetails4{
+    width: 182px; 
+    height: 16px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12px; 
+    font-weight: 400; 
+    color: #4E6269; 
+    line-height: 20px;
+    margin-left: 16px;
+    margin-top: 20px;
+    flex: none; 
+    order: 0; 
+    flex-grow: 0;
+} 
+/*fastest solution - get access to highly certified doctors*/ 
+.contactbox{
+    width: 409px; 
+    height: 276px; 
+    margin-left: 710px; 
+    margin-top: 219px; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: flex-start; 
+    padding: 0px; 
+    gap: 40px; 
+    
+} 
+.contactheader{
+    width: 150px; 
+    height: 19px;
+    margin-top: 93px;
+    
+}
+.solutionheader{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 700; 
+    color: rgba(14, 99, 244, 1); 
+    font-size: 14px; 
+    height: 19px; 
+    letter-spacing: 0.08em;
+    margin-top: -1px;
+} 
+.contacth1{
+    width: 409px; 
+    height: 86px;
+    
+    margin-top: -30px;
+} 
+.solutionh1{
+    width: 409px; 
+    height: 86px; 
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 900; 
+    font-size: 32px; 
+    line-height: 43px;  
+    margin-top: -1px; 
+    color: rgba(0, 17, 23, 1); 
+    flex: none; 
+    order: 1; 
+    flex-grow: 0;
+}
+.contacth2{
+    width: 409px; 
+    height: 86px;
+    
+    margin-top: -30px;
+} 
+.solutionh2{
+    width: 409px; 
+    height: 57px; 
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 400; 
+    font-size: 14px; 
+    line-height: 19px;  
+    margin-top: -1px; 
+    color: rgba(78, 98, 105, 1); 
+    flex: none; 
+    order: 1; 
+    flex-grow: 0;
+    align-self: stretch;
+}  
+
+
+
+.contact2{
+    background-color: #0E63F4; 
+    font-family: 'Noto Sans', sans-serif;
+    color: #FFFFFF; 
+    font-weight: 700;
+    font-size: 14px; 
+    margin-left: 0px; 
+    margin-bottom: 60px; 
+    margin-top: -10px;
+    border: none;
+    border-radius: 4px; 
+    width: 189px; 
+    height: 46px; 
+    gap: 8px; 
+    padding-top: 12px; 
+    padding-left: 40px; 
+    padding-bottom: 12px; 
+    padding-right: 68px;
+    align-items: center; 
+    justify-content: center; 
+    flex-direction: column; 
+    display: flex;
+    cursor: pointer;
+    transition: ease-in-out; 
+    transition-duration: 0.4s;
+} 
+.contact2:hover{
+    background-color: black;
+    animation-duration: 0.4s;
+    
+} 
+#arrow2{
+    margin-top: -93px; 
+    margin-bottom: 110px;
+    margin-left: 120px;
+} 
+
+/*Fourth Page*/ 
+.fourthpage{
+    width: 1440px; 
+    height: 747px; 
+    background: #FFFFFF; 
+    
+    margin-top: -180px;
+}
+.fourthheader{
+    width: 150px; 
+    height: 19px;
+    margin-top: 80px; 
+    margin-left: 188px;
+    
+} 
+.fourthbody{
+    width: 515px; 
+    height: 86px; 
+    margin-left: 188px;
+    margin-top: 8px;
+    
+}  
+.solutionbody{
+    width: 515px; 
+    height: 86px; 
+    font-family: 'Noto Sans', sans-serif; 
+    font-weight: 900; 
+    font-size: 32px; 
+    margin-top: -5px;
+    line-height: 43px; 
+    color: #001117; 
+    flex: none; 
+    order: 1; 
+    flex-grow: 0;
+} 
+.fourthdetails{
+    width: 459px; 
+    height: 72px; 
+    margin-left: 188px; 
+    margin-top: 20px;
+    
+} 
+.solutiondetails{
+    font-family: 'Noto Sans', sans-serif; 
+    font-weight: 400px; 
+    font-size: 14px; 
+    line-height: 24px; 
+    margin-top: -10px;
+    color: #4E6269; 
+    flex: none; 
+    order: 1; 
+    flex-grow: 0;
+} 
+.fourthlists{
+    display: flex; 
+    flex-direction: column; 
+    align-items: flex-start; 
+    width: 492px; 
+    margin-left: 188px; 
+    margin-top: 40px;
+    height: 132px;
+    
+} 
+
+.bluetick{
+    margin-top: -90px; 
+    margin-bottom: 9px; 
+    } 
+.bluetick2{
+  margin-top: -90px; 
+margin-bottom: 40px; 
+        }  
+.bluetick3{
+ margin-top: -90px; 
+ margin-bottom: 40px; 
+        } 
+.listcontainer2{
+    width: 459px; 
+    height: 24px; 
+    
+    margin-left: 32px;
+    margin-top: -85px;
+    margin-bottom: 12px;
+} 
+.listcontainer3{
+    width: 459px; 
+    height: 24px; 
+    
+    margin-left: 32px;
+    margin-top: -85px;
+    margin-bottom: 12px;
+} 
+.listcontainer{
+    width: 459px; 
+    height: 24px; 
+    
+    margin-left: 32px;
+    margin-top: -53px;
+    margin-bottom: 12px;
+}
+.list{
+    font-family: 'Noto Sans', sans-serif; 
+    font-weight: 400px; 
+    font-size: 14px; 
+    line-height: 24px; 
+    margin-left: -1px;
+    margin-top: -2px;
+}
+/*Doctors Image*/ 
+.doc{
+    width: 398px; 
+    height: 528px; 
+    margin-left: 962px;
+    margin-top: -690px;
+    
+} 
+.docimage{
+    width: 398px; 
+    height: 528px; 
+    border-radius: 0px 64px;
+}
+.doc1{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 20px;
+gap: 8px;
+
+position: absolute;
+width: 363px;
+height: 99px;
+left: 866px;
+margin-top: -315px;
+background: #FFFFFF;
+box-shadow: 0px 4px 48px rgba(0, 0, 0, 0.1);
+border-radius: 20px 20px 0px 20px;
+}
+.doc1img{
+    width: 59px; 
+    height: 59px; 
+    
+} 
+.docname{
+    width: 150px;
+    height: 19px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 700px; 
+    margin-top: -60px; 
+    margin-left: 80px;
+    font-size: 14px; 
+    line-height: 18.9px; 
+    color:rgba(0, 17, 23, 1);
+    
+} 
+.docno{
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 500px; 
+    margin-top: -40px; 
+    margin-left: 240px;
+    font-size: 12px; 
+    line-height: 16.2px; 
+    color:rgba(78, 98, 105, 1);
+} 
+/*Gray lines*/ 
+.grayline{
+    width: 243px; 
+    height: 8px; 
+    background-color: #F1F4FB; 
+    border-radius: 4px;
+    margin-left: 80px;
+    margin-top: -10px;
+    
+} 
+.grayline2{
+    width: 216px; 
+    height: 8px; 
+    margin-bottom: 25px;
+    background-color: #F1F4FB; 
+    border-radius: 4px;
+    margin-left: 80px;
+    margin-top: -4px;
+    
+} 
+
+/*Second Doctor box to ask qustions*/ 
+.doc2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 24px 20px ;
+    gap: 8px;
+    
+    position: absolute;
+    width: 363px;
+    height: 269px;
+    left: 865px;
+    margin-top: -155px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 48px rgba(0, 0, 0, 0.1);
+    border-radius: 20px 20px 0px 20px;
+    } 
+
+    .break{
+        margin-bottom: 90px;
+    }
+ 
+    .question{
+        background-color: #0E63F4; 
+        font-family: 'Noto Sans', sans-serif;
+        color: #FFFFFF; 
+        font-weight: 700;
+        font-size: 14px; 
+        margin-left: 23px; 
+        margin-bottom: -70px; 
+        margin-top: 20px;
+        border: none;
+        border-radius: 4px; 
+        width: 323px; 
+        height: 39px; 
+        gap: 8px; 
+        padding-top: 12px; 
+        padding-left: 40px; 
+        padding-bottom: 12px; 
+        padding-right: 68px;
+        align-items: center; 
+        justify-content: center; 
+        flex-direction: column; 
+        display: flex;
+        cursor: pointer;
+        transition: ease-in-out; 
+        transition-duration: 0.4s;
+    } 
+    .question1:hover{
+        background-color: black;
+        animation-duration: 0.4s;
+        
+    } 
+
+
+
+
+   
